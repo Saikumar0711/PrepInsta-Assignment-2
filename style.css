@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anta&family=Press+Start+2P&display=swap');
+body{
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;
+}
+/* image{
+} */
+.name{
+  color: aliceblue;
+  font-family: "Anta", sans-serif;
+  font-weight: 400;
+  font-size:320%;
+  font-style: normal;
+}
+
+h3,h4{
+    color: rgb(132, 214, 203);
+    font-family: "Anta", sans-serif;
+    font-weight: 300;
+    font-size:130%;
+    font-style:italic;
+}
+h2{
+    color: rgb(132, 214, 203);
+    font-family: "Anta", sans-serif;
+    font-weight: 500;
+    font-size:180%;
+    text-align: center;
+}
+.para1{
+    border-radius: 10px;
+    color: white;
+    border: 1px solid aqua;
+    font-family: "Anta", sans-serif;
+    font-size:21px;
+}
